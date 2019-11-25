@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import MemeGenerator from './components/MemeGenerator'
 
 class App extends Component {
   render() {
-    return <HelloWorld />
+    return <MemeGenerator />
   }
 }
 
